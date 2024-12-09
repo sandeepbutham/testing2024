@@ -1,8 +1,5 @@
-<<<<<<< HEAD
+
 create 
 chrome
+base sample
 
-=======
-create login code base 
-create login code base
->>>>>>> origin/featurelogin
